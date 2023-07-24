@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "keywords": [
+    "rest",
+    "hateoas",
+    "spring",
+    "data",
+    "react"
+  ],
   "author": "",
   "license": "ISC",
-  
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
