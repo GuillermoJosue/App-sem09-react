@@ -32,9 +32,9 @@ class EmployeeList extends React.Component{
 			<table>
 				<tbody>
 					<tr>
-						<th>First Name</th>
-						<th>Last Name</th>
-						<th>Description</th>
+						<th>Primer nombre</th>
+						<th>Apellidos</th>
+						<th>Descripción</th>
 					</tr>
 					{employees}
 				</tbody>
@@ -58,6 +58,5 @@ class Employee extends React.Component{
 
 
 ReactDOM.render(
-	<App />,
-	document.getElementById('react')
+	<App />,document.getElementById('react')
 )
